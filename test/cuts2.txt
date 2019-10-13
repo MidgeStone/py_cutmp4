@@ -1,2 +1,0 @@
-totoro.mp4 00:00:00 00:00:12 totoro2.mp4
-bar.mp4 00:00:05 00:02:00 bar2.mp4
