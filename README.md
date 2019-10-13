@@ -1,2 +1,3 @@
 # py_cutmp4
-quickly cut at certain time a folder of mp4 files without re-encoding.
+[python] simple fast cut at timecode & copy mp4 files in a folder without re-encoding.
+Each time code was previously written directly at the end of the filename.
